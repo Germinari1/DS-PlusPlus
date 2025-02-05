@@ -1,5 +1,5 @@
 # DS-PlusPlus
-A collection of custom-implemented data structures in C++. The data structures in this repository were created from scratch and first implemented for learning purposes. However, they were tested, validated, and used in applications. It is also relevant to mention that these data structures are continually being improved, revised, and refactored. That is another reason why contributions to this project are highly encouraged.
+A collection of custom-implemented data structures in C++. The data structures in this repository were created from scratch and first implemented for learning purposes. It is also relevant to mention that these data structures are continually being improved, revised, and refactored. That is another reason why contributions to this project are highly encouraged.
 
 ## Features
 This repository contains the following data structures:
