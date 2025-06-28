@@ -13,6 +13,9 @@ This repository contains the following data structures:
 - ``Map``
 - ``Set``
 - ``Doubly Linked List``
+
+<br>
+
 Those data structures provide users with the opportunity to analyze possible implementations of widely used DSA concepts, as well as modify and play around with them.
 
 ## Quick start and usage
