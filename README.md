@@ -1,5 +1,5 @@
 # DS-PlusPlus
-A collection of custom-implemented data structures in C++. The data structures in this repository were created from scratch and first implemented for learning purposes. It is also relevant to mention that these data structures are continually being improved, revised, and refactored. That is another reason why contributions to this project are highly encouraged.
+A collection of custom-implemented data structures in C++. The data structures in this repository were created from scratch and first implemented for learning purposes. 
 
 ## Features
 This repository contains the following data structures:
@@ -13,7 +13,7 @@ This repository contains the following data structures:
 - ``Map``
 - ``Set``
 - ``Doubly Linked List``
-Those data structures provide users with the opportunity to analyze possible implementations of widely used DSA concepts, as well as modify and "play around" with them.
+Those data structures provide users with the opportunity to analyze possible implementations of widely used DSA concepts, as well as modify and play around with them.
 
 ## Quick start and usage
 1. Download the repository from GitHub
@@ -22,7 +22,7 @@ Those data structures provide users with the opportunity to analyze possible imp
 ```cpp
 #include "hashTable.h"
 ```
-To use the data structure, then, a user can instantiate the corresponding objects and perform associated operations (add data, retrieve an item, etc) in the following way (again, using hashTable as an example?
+To use the data structure, then, a user can instantiate the corresponding objects and perform associated operations (add data, retrieve an item, etc) in the following way (again, using hashTable as an example)
 ```cpp
 #include <iostream>
 #include <string>
